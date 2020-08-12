@@ -14,6 +14,12 @@ A for-fun project which will automate some basic runescape tasks. Though I am no
 - Refactor to practice OOP, SOLID, DRY
 - Refactor for implementation of a design pattern
 
+## Pre-requirements
+1. Windows 10 with Cortana search bar active
+2. Resolution set to 1920 x 1080 
+3. Display scale set to 100%
+4. A runescape account which has passed tutorial island
+
 ## To Run
 1. npm i
 2. node index
